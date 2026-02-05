@@ -1,0 +1,16 @@
+# Ignore Excel Files (Real Network Data)
+*.xlsx
+*.xls
+*.csv
+
+# Ignore Generated MML Scripts (Safety)
+*.mml
+*.txt
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# IDE Settings
+.vscode/
+.idea/
