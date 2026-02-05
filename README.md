@@ -31,6 +31,7 @@ LinkMind Sovereign is a Python-based engine designed for Telecom Transmission En
 ## 📦 Installation
 
 ```bash
-git clone [https://github.com/YourUsername/LinkMind-Sovereign.git](https://github.com/YourUsername/LinkMind-Sovereign.git)
+git clone [https://github.com/Ahmed-Chaouli/LinkMind-Sovereign.git](https://github.com/YourUsername/LinkMind-Sovereign.git)
 cd LinkMind-Sovereign
+
 pip install -r requirements.txt
